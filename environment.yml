@@ -1,0 +1,11 @@
+name: trgt-course
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - trgt=5.1.0
+  - stranger=0.10.2
+  - samtools=1.25
+  - bcftools=1.25
+  - nbconvert
+  - ipykernel

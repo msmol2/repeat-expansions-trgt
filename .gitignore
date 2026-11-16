@@ -1,0 +1,24 @@
+# Large input/intermediate data – not tracked
+*.bam
+*.bai
+*.cram
+*.crai
+*.vcf
+*.vcf.gz
+*.csi
+*.tbi
+*.fa
+*.fna
+*.fa.fai
+*.gz
+ref/
+bam/
+results/*.log
+repeats.bed
+stranger_hg38.json
+
+# Notebook / OS clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db

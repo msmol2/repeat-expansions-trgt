@@ -1,0 +1,13 @@
+sample	locus	status	disease	GT	motif_count	supporting_reads	allele_length_bp	normal_max	pathologic_min
+sample01	SCA3_ATXN3	full_mutation	MJD	./1	69	238	217	44	56
+sample02	OPMD_PABPN1	full_mutation	OPMD	0/1	10,13	339,329	31,40	10	11
+sample03	FXS_FMR1	full_mutation	FragileX	1	877	91	2655	55	200
+sample04	DRPLA_ATN1	full_mutation	DRPLA	./1	71	105	221	35	48
+sample05	CANVAS_RFC1	full_mutation	CANVAS	./1	0_409_0_1_0_2	26	2086	11	12
+sample06	HD_HTT	full_mutation	Huntington	./1	74_8	315	255	34	36
+sample07	DM1_DMPK	full_mutation	DM1	./1	384	256	1156	34	50
+sample08	FXS_FMR1	pre_mutation	FragileX	./1	78	192	240	55	200
+sample09	SBMA_AR	full_mutation	SBMA	1	57	300	187	35	38
+sample10	FRDA_FXN	full_mutation	FRDA	1/.	105_193_399	88	1889	35	51
+sample10	FRDA_FXN	full_mutation	FRDA	./1	188_238_757	29	3182	35	51
+sample11	SCA1_ATXN1	full_mutation	SCA1	./1	43	228	133	35	40
